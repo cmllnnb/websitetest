@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Camille's Life Exploration</title>
+<title>Camille's Life Exploration
 </head>
 <body>
 
